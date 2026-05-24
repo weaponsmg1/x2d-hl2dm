@@ -13,3 +13,5 @@ Use own your risk
 # Screenshots
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/815cb1a4-2542-4682-bb55-77420fbe0e2c" />
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/ac928ede-fc31-4ba6-a21e-4b90c6246fd2" />
